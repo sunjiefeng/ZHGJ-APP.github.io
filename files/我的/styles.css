@@ -69,7 +69,7 @@
   border-width:0px;
   position:absolute;
   left:58px;
-  top:410px;
+  top:503px;
   width:248px;
   height:17px;
   font-family:'微软雅黑';
@@ -2061,5 +2061,42 @@
   top:0px;
   width:0px;
   visibility:hidden;
+  word-wrap:break-word;
+}
+#u564_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:270px;
+  height:40px;
+  background:inherit;
+  background-color:rgba(240, 72, 68, 1);
+  border:none;
+  border-radius:5px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+}
+#u564 {
+  border-width:0px;
+  position:absolute;
+  left:47px;
+  top:400px;
+  width:270px;
+  height:40px;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+}
+#u564_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:12px;
+  width:266px;
   word-wrap:break-word;
 }
